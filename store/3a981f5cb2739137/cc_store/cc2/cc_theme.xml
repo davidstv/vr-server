@@ -768,10 +768,10 @@
 
 
         <actionpack id="mgun" name="Machine Gun Pack" money="0" sharing="0" enable="Y">
-            <action id="mgun_down01_fire" name="Lying down - keep shooting" loop="Y" totalframe="1" enable="Y" is_motion="N" category="Machine Gun">
+            <action id="mgun_down01_fire.swf" name="Lying down - keep shooting" loop="Y" totalframe="1" enable="Y" is_motion="N" category="Machine Gun">
                 <selection type="facial" facial_id="head_neutral"/>
             </action>
-            <action id="mgun_down01_loop" name="Lying down - burst mode" loop="Y" totalframe="1" enable="Y" is_motion="N" category="Machine Gun">
+            <action id="mgun_down01_loop.swf" name="Lying down - burst mode" loop="Y" totalframe="1" enable="Y" is_motion="N" category="Machine Gun">
                 <selection type="facial" facial_id="head_neutral"/>
             </action>
             <action id="mgun_down01_once" name="Lying down - shoot once" loop="Y" totalframe="1" enable="Y" is_motion="N" category="Machine Gun">
