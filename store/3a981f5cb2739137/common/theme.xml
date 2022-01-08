@@ -17023,7 +17023,7 @@
 	<prop id="febex_envelope02.swf" name="Febex Envelope" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="22031" money="0" sharing="0" handstyle="flat"/>
 	<prop id="febex_cap02.swf" name="Febex Cap" holdable="0" placeable="1" wearable="1" facing="left" thumb="" enable="Y" is_premium="N" aid="22032" money="0" sharing="0"/>
 	<prop id="ncc_betsyrose_flag.swf" name="Betsy Rose flag" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11885" money="0" sharing="0"/>
-	<prop id="ncc_brokenflag01.swf" name="Broken flag" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11886" money="0" sharing="0"/>
+	<prop id="germany.swf" name="German Empire Flag" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11886" money="0" sharing="0"/>
 	<prop id="ncc_brokenflag02.swf" name="Broken flag" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11887" money="0" sharing="0"/>
 	<prop id="ncc_cannon_side.swf" name="Cannon" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11888" money="0" sharing="0"/>
 	<prop id="ncc_capital.swf" name="Capitol" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11889" money="0" sharing="0"/>
