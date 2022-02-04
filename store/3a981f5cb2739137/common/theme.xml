@@ -15510,13 +15510,14 @@
 	<prop id="sexdoll_male.swf" name="Male Doll" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3237" money="0" sharing="0"/>
 	<prop id="busted.swf" name="Busted Magazine" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3238" money="0" sharing="0"/>
 	<prop id="banknote.swf" name="Bank Note" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3239" money="0" sharing="0" handstyle="flat"/>
-	<prop id="sexdoll_female.swf" name="Female Doll" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3240" money="0" sharing="0"/>
 	<prop id="rose.swf" name="Rose" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3241" money="0" sharing="0"/>
 	<prop id="necklace.swf" name="Necklace" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3242" money="0" sharing="0"/>
 	<prop id="diamond_ring.swf" name="Diamond Ring" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3243" money="0" sharing="0"/>
 	<prop id="camera.swf" name="Camera" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3244" money="0" sharing="0"/>
 	<prop id="camera_with_flash.swf" name="Camera With Flash" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3245" money="0" sharing="0"/>
 	<prop id="flag.swf" name="Flag" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3246" money="0" sharing="0"/>
+        <prop id="flag_pole.swf" name="flag_pole" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3621" money="0" sharing="0"/>
+         <prop id="germany_thing.swf" name="germany_thing" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10780" money="0" sharing="0"/>
 	<prop id="interview_cup.swf" name="Interview Cup" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3247" money="0" sharing="0" handstyle="flat"/>
 	<prop id="boxing_glove.swf" name="Boxing Glove" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3248" money="0" sharing="0"/>
 	<prop id="martini_glass.swf" name="Martini Glass" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3249" money="0" sharing="0"/>
